@@ -4,9 +4,7 @@
 Cloud & DevOps Engineer in Progress ☁️🚀
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Computing+Enthusiast;Linux+System+Administrator;AWS+Academy+Graduate;Future+DevOps+Engineer;Always+Learning+New+Technologies" />
-</p>
+
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=abdelrahmankhalil1&theme=algolia&no-frame=true&row=1&column=6"/>
